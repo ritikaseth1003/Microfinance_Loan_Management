@@ -19,8 +19,6 @@ microfinance-frontend/node_modules/
 *.avi
 *.mkv
 
-# Database dumps (if large)
-*.sql
 
 # Logs
 npm-debug.log*
